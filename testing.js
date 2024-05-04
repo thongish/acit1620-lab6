@@ -6,7 +6,9 @@
 // console.log(12)
 // console.log(12 / 2)
 // console.log(name.toUpperCase());
+//test
 
+let nameT = ''
 let name; // variable declaration
 name = 'hello world';
 
