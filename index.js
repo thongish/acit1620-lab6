@@ -13,7 +13,7 @@ const shuffle = (list) => {
         templist[randomIndex] = temp 
     }
     return templist
-}
+}// testing
 /*
     Step 1:
     - Create an array named 'urls' of eight strings containing the following values:
