@@ -31,8 +31,8 @@ jobs:
           # To report GitHub Actions status checks
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           VALIDATE_ALL_CODEBASE: true
-          # JAVASCRIPT_DEFAULT_STYLE: prettier
-          # VALIDATE_JAVASCRIPT_STANDARD: true
+          JAVASCRIPT_DEFAULT_STYLE: prettier
+          VALIDATE_JAVASCRIPT_STANDARD: true
           # VALIDATE_JAVASCRIPT_ES: true
           
           
